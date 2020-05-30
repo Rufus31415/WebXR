@@ -1,0 +1,3 @@
+[submodule "Submodules/unity-webxr-export"]
+	path = Submodules/unity-webxr-export
+	url = https://github.com/MozillaReality/unity-webxr-export.git
